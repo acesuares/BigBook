@@ -1,0 +1,7 @@
+en:
+  inline_forms:
+    general:
+      application_title: BigBook
+    devise:
+      title_for_devise: BigBook
+      welcome: Welcome to BigBook!
